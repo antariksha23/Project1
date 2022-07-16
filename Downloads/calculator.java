@@ -1,3 +1,4 @@
+#this is my clone work
 import java.util.Scanner;
 
  public class calculator
